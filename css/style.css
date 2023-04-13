@@ -12,11 +12,11 @@ body, html {
 
 a {
 	position: absolute;
-	left: 500px;
-	top: 100px;
+	left: 390px;
+	top: 80px;
 	color: yellow;
-	font-size: 30px;
+	font-size: 24px;
 	background-color: purple;
-	padding: 40px;
+	padding: 32px;
 	border-radius: 0 0 0 25%;
 }
